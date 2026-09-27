@@ -1,0 +1,10 @@
+creds.sh
+check.sh
+install.sh
+fixpath.sh
+configure.sh
+.bedrock_agentcore.yaml
+*.pyc
+__pycache__/
+.venv/
+.env
